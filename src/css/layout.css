@@ -1,0 +1,14 @@
+body {
+  margin: 1em;
+}
+
+.site-header {
+  margin-bottom: 1em;
+}
+
+@media (min-width: 53.125em) {
+  body {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
